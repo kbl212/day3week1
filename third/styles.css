@@ -1,0 +1,54 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container {
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+nav {
+    height: 50px;
+    color: white;
+    background-color: black;
+}
+
+nav li {
+    display: inline-block;
+    margin: 15px 25px;
+}
+
+h1 {
+    font-family: Open Sans;
+}
+
+
+.column {
+    width: 45%;
+    margin-bottom: 40px;
+}
+
+.left {
+    float:left;
+    margin-left: 10px;
+}
+
+.right {
+    float:right;
+    margin-right: 10px;
+}
+
+.bigBox {
+    height: 250px;
+    margin-top: 24px;
+    background-color: lightgray;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
